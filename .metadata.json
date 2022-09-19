@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "disto",
-    "oncran": true
-  },
-  {
     "package": "ggisotonic",
     "oncran": true
   },
