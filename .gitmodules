@@ -28,6 +28,11 @@
 	url = https://github.com/talegari/safer
 	shallow = true
 	registered = true
+[submodule "slimrec"]
+	path = slimrec
+	url = https://github.com/talegari/slimrec
+	shallow = true
+	registered = true
 [submodule "solitude"]
 	path = solitude
 	url = https://github.com/talegari/solitude

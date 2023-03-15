@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "slimrec",
+    "oncran": true
+  },
+  {
     "package": "solitude",
     "oncran": true
   },
