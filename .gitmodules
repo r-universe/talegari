@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tidyrules"]
-	path = tidyrules
-	url = https://github.com/talegari/tidyrules
-	shallow = true
-	registered = true
-[submodule "pkggraph"]
-	path = pkggraph
-	url = https://github.com/talegari/pkggraph
-	shallow = true
-	registered = true
 [submodule "bigdist"]
 	path = bigdist
 	url = https://github.com/talegari/bigdist
@@ -28,13 +18,23 @@
 	url = https://github.com/talegari/ggisotonic
 	shallow = true
 	registered = true
-[submodule "solitude"]
-	path = solitude
-	url = https://github.com/talegari/solitude
+[submodule "pkggraph"]
+	path = pkggraph
+	url = https://github.com/talegari/pkggraph
 	shallow = true
 	registered = true
 [submodule "safer"]
 	path = safer
 	url = https://github.com/talegari/safer
+	shallow = true
+	registered = true
+[submodule "solitude"]
+	path = solitude
+	url = https://github.com/talegari/solitude
+	shallow = true
+	registered = true
+[submodule "tidyrules"]
+	path = tidyrules
+	url = https://github.com/talegari/tidyrules
 	shallow = true
 	registered = true

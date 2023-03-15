@@ -1,13 +1,5 @@
 [
   {
-    "package": "tidyrules",
-    "oncran": true
-  },
-  {
-    "package": "pkggraph",
-    "oncran": true
-  },
-  {
     "package": "bigdist",
     "oncran": true
   },
@@ -20,11 +12,19 @@
     "oncran": true
   },
   {
-    "package": "solitude",
+    "package": "pkggraph",
     "oncran": true
   },
   {
     "package": "safer",
+    "oncran": true
+  },
+  {
+    "package": "solitude",
+    "oncran": true
+  },
+  {
+    "package": "tidyrules",
     "oncran": true
   }
 ]
