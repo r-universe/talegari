@@ -38,6 +38,11 @@
 	url = https://github.com/talegari/solitude
 	shallow = true
 	registered = true
+[submodule "tidier"]
+	path = tidier
+	url = https://github.com/talegari/tidier
+	shallow = true
+	registered = true
 [submodule "tidyrules"]
 	path = tidyrules
 	url = https://github.com/talegari/tidyrules
