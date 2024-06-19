@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bigdist"]
-	path = bigdist
-	url = https://github.com/talegari/bigdist
 [submodule "disto"]
 	path = disto
 	url = https://github.com/talegari/disto
