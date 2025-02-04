@@ -26,3 +26,6 @@
 [submodule "tidyrules"]
 	path = tidyrules
 	url = https://github.com/talegari/tidyrules
+[submodule "writer"]
+	path = writer
+	url = https://github.com/talegari/writer
