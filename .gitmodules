@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "disto"]
-	path = disto
-	url = https://github.com/talegari/disto
 [submodule "ggisotonic"]
 	path = ggisotonic
 	url = https://github.com/talegari/ggisotonic
@@ -14,9 +11,6 @@
 [submodule "safer"]
 	path = safer
 	url = https://github.com/talegari/safer
-[submodule "slimrec"]
-	path = slimrec
-	url = https://github.com/talegari/slimrec
 [submodule "solitude"]
 	path = solitude
 	url = https://github.com/talegari/solitude
